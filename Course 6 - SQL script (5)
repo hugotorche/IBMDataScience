@@ -27,7 +27,7 @@ CREATE TABLE EMPLOYEES (
                           PRIMARY KEY (EMP_ID)
                         );
 
-CREATE TABLE JOB_HISTORY (
+CREATE TABLE JOB_HISTORY ( 
                             EMPL_ID CHAR(9) NOT NULL,
                             START_DATE DATE,
                             JOBS_ID CHAR(9) NOT NULL,
