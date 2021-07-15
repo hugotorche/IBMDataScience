@@ -1,4 +1,4 @@
-#Final Assignment: US Domectic Flights Performance Report 
+#Final Assignment: US Domectic Flights Performance Report  
 
 # Import required libraries
 import pandas as pd
